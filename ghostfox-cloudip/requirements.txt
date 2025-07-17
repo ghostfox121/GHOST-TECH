@@ -1,0 +1,4 @@
+requests
+torrequest
+shodan
+psutil
